@@ -1,0 +1,28 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    position: absolute;
+    width: 80%;
+}
+
+.d{
+    background:white;
+    border-radius: 0px 0px 0px 10px;
+}
+
+@media(max-width: 768px){
+.angle{
+    width: 100%;
+    position: relative;
+    left: 0px;
+    bottom: 30%;
+}
+
+.dark{
+    margin-top: 10vh;
+}
+}
